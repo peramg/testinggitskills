@@ -5,6 +5,6 @@ Resources:
       Properties:
          ImageId: 'ami-042b4708b1d05f512'
          InstanceType: 't3.micro'
-         SecurityGroupIds: 
+         SecurityGroupIds:
            - 'sg-0136621861b0481a5'
          KeyName: test11
